@@ -43,7 +43,7 @@ import { AdminsComponent } from './pages/admins/admins.component';
   ],
   imports: [
     BrowserModule,
-    HttpClientModule
+    HttpClientModule,
     AppRoutingModule,
     SharedModule
   ],
